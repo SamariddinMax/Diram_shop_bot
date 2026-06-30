@@ -1,0 +1,5 @@
+/.vscode
+/passbot.py
+/shop.db
+/users.csv
+/__pycache__
