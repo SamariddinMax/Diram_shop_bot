@@ -16,12 +16,14 @@ Diram Shop Bot — ин як боти мағозаи Telegram мебошад, к
 📊 Нигоҳдории маълумот дар пойгоҳи додаҳо
 ```
 
+```
 🛠️ Технологияҳои истифодашуда
 Python 3.x
 Aiogram
 SQLite / PostgreSQL
 SQLAlchemy
 AsyncIO
+```
 
 ▶️ Иҷрои бот
 python app.py
@@ -65,6 +67,6 @@ Pull Request фиристед.
 
 👨‍💻 Муаллиф
 
-SamariddinMax
+Samariddin Hakimov
 
 Агар ин лоиҳа ба шумо писанд омад, ба он ⭐ Star диҳед.
